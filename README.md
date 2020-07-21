@@ -1,6 +1,8 @@
 # uwscase
 Testcase for UW-S
 
+See in action: http://royscml113.113.axc.nl/
+
 Op verzoek deze mini app ontwikkeld. Gevraagd werd om een home page, countdown en uploadpagina. 
 Uiteraard wilde ik hier een creatieve draai aan geven: de timer loopt direct en de countdown kan deze ophogen (snoozen). Wanneer de tijd op is verschijnt de resultatenpagina. Als het goed is heeft de 'programmer' zich hiermee dus bewezen. :) Verder wat simpele CSS animatie voor wat uitstraling.
 
